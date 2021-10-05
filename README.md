@@ -6,6 +6,6 @@
 
 <div>
   <a href="https://github.com/PhoenixPassenger">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PhoenixPassenger&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhoenixPassenger&layout=compact&langs_count=7&theme=tokyonight&hide=html"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=otavioalbucosta&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otavioalbucosta&layout=compact&langs_count=7&theme=tokyonight&hide=html"/>
 </div>
